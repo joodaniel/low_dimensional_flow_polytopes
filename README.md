@@ -1,1 +1,1 @@
-# low_dimensional_flow_polytopes
+Scripts by Mátyás Domokos and Dániel Joó created for the paper "LOW DIMENSIONAL FLOW POLYTOPES AND THEIR TORIC IDEALS" (https://arxiv.org/abs/2105.04004).
